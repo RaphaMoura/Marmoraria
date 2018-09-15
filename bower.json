@@ -1,0 +1,18 @@
+{
+  "name": "site",
+  "homepage": "https://github.com/RaphaMoura/Marmoraria",
+  "authors": [
+    "RaphaMoura <rapha_zero@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
